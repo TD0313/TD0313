@@ -1,0 +1,47 @@
+h1 { font-family: 'Roboto', sans-serif;
+     text-align : center;
+     font-size : 25px ;
+     margin-top: 50px;}
+
+.texte {font-family: 'Outfit', sans-serif;
+        font-size: 15px;
+        text-align: center;
+        margin: 15px;}
+
+section  {display: flex;
+          justify-content: center;
+          margin: 5px;}
+
+#Logo1 {float: right;
+        margin: 10px;}
+
+#Logo2 {float: left;
+        margin: 10px;}
+
+.video  {display: block;
+         width: 500px;
+         margin: 0 auto 80px auto;
+         margin-top: 50px;}
+
+.img img {height: 200px;
+          width: 300px;
+          object-fit: contain;}
+        
+h2 {font-family: 'Roboto', sans-serif; text-align : center;
+   font-size : 25px ;}	     
+
+h3 {font-family: 'Roboto', sans-serif;text-align : center;
+   font-size : 25px ;}
+
+.align {display: flex;
+       justify-content:space-between;}
+          
+figure {display: flex;
+        flex-flow: column;
+        padding: 10px;
+        max-width: 265px;
+        margin: auto;}
+
+figcaption {font-family: 'Outfit', sans-serif;
+            text-align:center;
+            margin: 20px }
